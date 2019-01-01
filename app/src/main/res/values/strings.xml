@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">prework</string>
+    <string name="title">Imgur</string>
+    <string name="imageID_placeHolder">Image ID</string>
+    <string name="btnSearch_name">Search</string>
+    <string name="image_desc">Image from given image id</string>
+</resources>
